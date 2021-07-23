@@ -3,4 +3,4 @@ theme: jekyll-theme-hacker
 title: "Curso Series Temporales 2021"
 description: "Página de entregas del curso Series Temporales 2021 -- Universidad ORT Uruguay -- Master en Big Data e Inteligencia Arrtificial."
 
-show_downloads: "false"
+show_downloads: "False"
