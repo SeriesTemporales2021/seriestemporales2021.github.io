@@ -11,7 +11,7 @@ El desafío consistió en tomar una serie temporal de datos reales y buscar anal
 
 * Analisis de la serie de incendios forestales en el Amazonas [[repo]](https://github.com/SeriesTemporales2021/obligatorio-apst-eiris_fiori_otte). Autores: Nicolas Eiris, Ignacio Fiori, Sebastián Otte.
 
-* Análisis de emisiones de C02 mundiales con foco en Brasil [[repo]](https://github.com/SeriesTemporales2021/obligatorio-apst-diaz_mattos_mendez). Autores: José Díaz, Juan Mattos, Matías Mendez.
+* Análisis de emisiones de C02 mundiales con foco en Brasil [[repo]](https://github.com/SeriesTemporales2021/obligatorio-apst-diaz_mattos_mendez). Autores: José Díaz, Juan Mattos, Matías Méndez.
 
 * Análisis de una serie temporal de ventas [[repo]](https://github.com/SeriesTemporales2021/obligatorio-apst-ramas_rodriguez_zanotta). Autores: Javier Ramas, Antonia Rodriguez, Sebastián Zanotta.
 
